@@ -30,13 +30,16 @@ Fundamental concepts in the software industry include software quality assurance
 - Working with different project management systems
 
 
-
 ## Courses and Certificates
 <div>
 <table>
   <tr>
     <th>Course</th>
     <th>Certificate</th>
+    <tr>
+    <td>Programming Fundamentals and Unit Testing</td>
+    <td><strong>$${\color{blue}Ongoing}$$</strong></td>
+  </tr>
    <tr>
     <td>QA Fundamentals and Manual Testing</td>
     <td><a href="https://softuni.bg/certificates/details/184220/6fb431ba"><strong>See certificate</strong></a></td>
